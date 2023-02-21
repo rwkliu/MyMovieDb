@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: MovieService
+  datasource:
+    url: jdbc:mysql://localhost:3306
+    username: root
+    password: m8265813
