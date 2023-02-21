@@ -1,0 +1,11 @@
+*.idea
+*.iml
+*.log
+*.backup
+*.github
+*.gz
+
+/target
+/logs
+
+.DS_Store
